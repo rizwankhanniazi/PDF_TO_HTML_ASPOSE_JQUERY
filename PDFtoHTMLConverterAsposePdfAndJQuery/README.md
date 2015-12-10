@@ -1,6 +1,6 @@
 ## Web API PDF to HTML Converter using Aspose.Pdf & JQuery
 
-### Introductionco
+### Introduction
 This solution allow users to upload PDF file to server using Web API call as JQuery and converts the PDF to HTML file using Aspose.Pdf feature and returns generated HTML from PDF to client. This initial version of the application is enriched with the following cool features to make the PDF to HTML converting process simple and easy to use.
 
 ### Features in this Release
