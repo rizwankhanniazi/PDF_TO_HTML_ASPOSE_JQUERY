@@ -1,6 +1,6 @@
-## Web API PDF to HTML Convertrr using Aspose.Pdf & JQuery
+## Web API PDF to HTML Converter using Aspose.Pdf & JQuery
 
-### Introduction
+### Introductionco
 This solution allow users to upload PDF file to server using Web API call as JQuery and converts the PDF to HTML file using Aspose.Pdf feature and returns generated HTML from PDF to client. This initial version of the application is enriched with the following cool features to make the PDF to HTML converting process simple and easy to use.
 
 ### Features in this Release
@@ -71,7 +71,7 @@ The release of this application supports the following features.
 ![PDF to HTML Converter](http://picpaste.com/pics/PDFtoHTML-WZUDvGVj.1449754546.png)
 
 ### System Requirements
-In order to setup Web API PDF to HTML Convertrr using Aspose.Pdf & JQuery solution you need to have the following requirements met:
+In order to setup Web API PDF to HTML Converter using Aspose.Pdf & JQuery solution you need to have the following requirements met:
 You need to have the following installed in order to open and extend the source code
 * Microsoft Visual Studio 2012 OR higher
 * Microsoft .Net Framework 4.0/4.5
