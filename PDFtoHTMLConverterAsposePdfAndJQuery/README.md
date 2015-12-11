@@ -25,9 +25,9 @@ ASP.NET Web API is a set of components that simplify HTTP programming, It is als
 * Web API returns generated HTML to Client. 
 * Client Browser renders the generated HTML to display out put.
 
-[REST Web API Architecture](http://picpaste.com/pics/RESTWebAPIArchitecture-a6hrCmUm.1449832692.PNG)
+[View REST Web API Architecture](http://s30.postimg.org/vb19lt0y9/RESTWeb_APIArchitecture.png)
 
-![REST Web API Architecture](http://picpaste.com/pics/RESTWebAPIArchitecture-a6hrCmUm.1449832692.PNG)
+![REST Web API Architecture](http://s30.postimg.org/vb19lt0y9/RESTWeb_APIArchitecture.png)
 
 ### JQuery Code
     <script type="text/javascript">
@@ -83,9 +83,9 @@ ASP.NET Web API is a set of components that simplify HTTP programming, It is als
         });
     </script>
 
-[PDF to HTML Converter](http://picpaste.com/pics/PDFtoHTML-WZUDvGVj.1449756623.png)
+[View PDF to HTML Converter](http://s17.postimg.org/r8xo8ysz3/PDFto_HTML.png)
 
-![PDF to HTML Converter](http://picpaste.com/pics/PDFtoHTML-WZUDvGVj.1449756623.png)
+![PDF to HTML Converter](http://s17.postimg.org/r8xo8ysz3/PDFto_HTML.png)
 
 ### System Requirements
 In order to setup Web API PDF to HTML Converter using Aspose.Pdf & JQuery solution you need to have the following requirements met:
