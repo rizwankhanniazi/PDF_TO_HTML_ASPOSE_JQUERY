@@ -14,6 +14,21 @@ The release of this application supports the following features.
 * Display generated HTML in client web browser.
 * Jquery file upload, progressbar, HTML display
 
+### Solution Architecture (REST Web API)
+
+ASP.NET Web API is a set of components that simplify HTTP programming, It is also a powerful platform for building Web APIs, using a handful of verbs (GET, POST, and so forth) plus a few simple concepts such as URIs and headers. It is built on top of the ASP.NET MVC runtime, Web API automatically handles the low-level transport details of HTTP and exposes the HTTP programming model to use in HTML, JavaScript, and jQuery.
+
+#### This Solution Architecture
+* REST Web API Service call from JQuery
+* JQuery AJAX Call to API method **/api/PDFtoHTML/ConvertPDFtoHTMLAndView**
+* At Server Side PDF file process to generate HTML from PDF using [Aspose.Pdf API for .NET](http://www.aspose.com/.net/pdf-component.aspx).
+* Web API returns generated HTML to Client. 
+* Client Browser renders the generated HTML to display out put.
+
+[REST Web API Architecture](http://picpaste.com/pics/RESTWebAPIArchitecture-a6hrCmUm.1449832692.PNG)
+
+![REST Web API Architecture](http://picpaste.com/pics/RESTWebAPIArchitecture-a6hrCmUm.1449832692.PNG)
+
 ### JQuery Code
     <script type="text/javascript">
 
@@ -68,7 +83,9 @@ The release of this application supports the following features.
         });
     </script>
 
-![PDF to HTML Converter](http://picpaste.com/pics/PDFtoHTML-WZUDvGVj.1449754546.png)
+[PDF to HTML Converter](http://picpaste.com/pics/PDFtoHTML-WZUDvGVj.1449756623.png)
+
+![PDF to HTML Converter](http://picpaste.com/pics/PDFtoHTML-WZUDvGVj.1449756623.png)
 
 ### System Requirements
 In order to setup Web API PDF to HTML Converter using Aspose.Pdf & JQuery solution you need to have the following requirements met:
